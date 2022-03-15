@@ -7,3 +7,7 @@ Diretório criado para colocar minha evolução durante o Bootcamp, rumo ao obje
 
 2 - PING
     Verifica os hosts e IP`s que constam no arquivo hosts e retorna 2 pings para cada host ou IP com intervalo de 5 segundos cada.
+
+3 - Cliente TCP
+    Programa para criaçao de um cliente TCP e tentativa de conexao a um cliente e uma uma porta indicados pelo usuario.
+
