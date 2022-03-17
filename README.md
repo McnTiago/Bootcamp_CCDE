@@ -16,3 +16,6 @@ Diretório criado para colocar minha evolução durante o Bootcamp, rumo ao obje
 
 5 - Gerador de senha
     Criaçao de um gerados de senhas, com o tamanho definido pelo usuario.
+
+6 - Comparador de Hashes
+    Criaçao de um comparador de hashes entre dois arquivos, no caso arquivos a.txt e b.txt
