@@ -28,3 +28,6 @@ Diretório criado para colocar minha evolução durante o Bootcamp, rumo ao obje
 
 9 - Gerador de Wordlist
     Criação de um gerador de wordlist, que é utilizado para permutação de caracteres.
+
+10 - Web Scraping
+    Importando informações de um sitecom as blibliotecas bs4 e requests
