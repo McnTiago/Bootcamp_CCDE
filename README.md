@@ -19,3 +19,6 @@ Diretório criado para colocar minha evolução durante o Bootcamp, rumo ao obje
 
 6 - Comparador de Hashes
     Criaçao de um comparador de hashes entre dois arquivos, no caso arquivos a.txt e b.txt
+
+7- Threads
+    Criação de uma simulação simultânea de uma corrida entre dois carros, usando a biblioteca threadind e função Thread.
