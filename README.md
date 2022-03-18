@@ -22,3 +22,6 @@ Diretório criado para colocar minha evolução durante o Bootcamp, rumo ao obje
 
 7- Threads
     Criação de uma simulação simultânea de uma corrida entre dois carros, usando a biblioteca threadind e função Thread.
+
+8 - Gerador de Hashes
+    Criação de um gerador de Hashes MD5, SHA1, SHA256 e SHA512
