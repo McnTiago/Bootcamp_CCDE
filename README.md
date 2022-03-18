@@ -25,3 +25,6 @@ Diretório criado para colocar minha evolução durante o Bootcamp, rumo ao obje
 
 8 - Gerador de Hashes
     Criação de um gerador de Hashes MD5, SHA1, SHA256 e SHA512
+
+9 - Gerador de Wordlist
+    Criação de um gerador de wordlist, que é utilizado para permutação de caracteres.
