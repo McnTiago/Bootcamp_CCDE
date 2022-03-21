@@ -31,3 +31,7 @@ Diretório criado para colocar minha evolução durante o Bootcamp, rumo ao obje
 
 10 - Web Scraping
     Importando informações de um sitecom as blibliotecas bs4 e requests
+
+11 - Web Crawler
+    Criação de um web Crawler que lê as principais informações de uma url e as lista e no final realizada um top 10 com as palavras mais utilizadas na página.
+
